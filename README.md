@@ -1,4 +1,4 @@
-# Azure Active Directory Home Lab
+# Azure Active Directory Home Labs
 ## Overview
 ### This project demonstrates how to build a small enterprise-style Active Directory environment in Microsoft Azure.
 The lab inludes:
