@@ -1,6 +1,7 @@
 # Azure Active Directory Home Labs
 ## Overview
 ### This project demonstrates how to build a small enterprise-style Active Directory environment in Microsoft Azure.
+### The purpose of this lab is to demonstrate hands-on experience with enterprise IT infrastructure that is used in the real world IT support environments.
 The lab inludes:
 * Azure virtual machines deployment
 * Active directory domain services installation
@@ -9,7 +10,7 @@ The lab inludes:
 * Creating users and security groups
 * Configuring shared folders
 * Mapping network drives using Group Policy
-### The purpose of this lab is to demonstrate hands-on experience with enterprise IT infrastructure that is used in the real world IT support environments.
+
 ## Lab Architecture
 ### The environment consists of two machines hosted on Azure.
 Domain Controller
