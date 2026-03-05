@@ -13,11 +13,11 @@ The lab inludes:
 
 ## Lab Architecture
 ### The environment consists of two machines hosted on Azure.
-Domain Controller
+### 1. Domain Controller
 * Windows Server 2022
 * IP Address 172.16.0.4
 * Domain: lab.local
-Client Machine
+### 2. Client Machine
 * Windows 11
 * Joined to lab.local domain
 * IP Address 172.16.05
