@@ -30,7 +30,7 @@ The lab inludes:
 * Group Policy
 * NTFS Permissions
 ## Lab Roadmap
-This project includes the follwing 15 labs:
+This project consists of 15 labs that includes:
 1. Azure Virtual Machine Deployment
 2. Install Active Directory Domain Services
 3. Configure DNS
