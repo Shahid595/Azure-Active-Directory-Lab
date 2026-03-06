@@ -81,15 +81,14 @@ After the system restarts:
 1. On the Domain Controller, open:
 
 
-Active Directory Users and Computers
+_Active Directory Users and Computers_
 
 
 2. Verify that **client-1** appears under the domain.
 
 3. Move the computer object to the:
 
-_COMPUTERS OU
-
+__COMPUTERS OU_
 ---
 
 ## Step 6 – Confirm Domain Authentication
