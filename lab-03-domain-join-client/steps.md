@@ -40,9 +40,9 @@ Preferred DNS Server → DC private IP address.
 
 Example:
 
-```
+
 172.16.0.4
-```
+
 
 5. Click **OK** and apply the changes.
 
@@ -57,17 +57,17 @@ Example:
 
 Enter:
 
-```
+
 lab.local
-```
+
 
 5. Enter Domain Administrator credentials when prompted.
 
 Example:
 
-```
+
 LAB\labadmin
-```
+
 
 6. Restart the computer when prompted.
 
@@ -77,27 +77,18 @@ LAB\labadmin
 
 After the system restarts:
 
-1. Log in using a domain account.
 
-Example:
+1. On the Domain Controller, open:
 
-```
-LAB\jsmith
-```
 
-2. On the Domain Controller, open:
-
-```
 Active Directory Users and Computers
-```
 
-3. Verify that **client-1** appears under the domain.
 
-4. Move the computer object to the:
+2. Verify that **client-1** appears under the domain.
 
-```
+3. Move the computer object to the:
+
 _COMPUTERS OU
-```
 
 ---
 
