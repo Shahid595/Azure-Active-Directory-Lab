@@ -97,6 +97,6 @@ Login to **client-1** using a domain user.
 
 Successful login confirms:
 
-• DNS configuration works
-• Domain join succeeded
-• Authentication through Active Directory is functional
+* DNS configuration works
+* Domain join succeeded
+* Authentication through Active Directory is functional
