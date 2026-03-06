@@ -41,7 +41,7 @@ Preferred DNS Server → DC private IP address.
 Example:
 
 
-172.16.0.4
+_172.16.0.4_
 
 
 5. Click **OK** and apply the changes.
@@ -58,7 +58,7 @@ Example:
 Enter:
 
 
-lab.local
+_lab.local_
 
 
 5. Enter Domain Administrator credentials when prompted.
@@ -66,7 +66,7 @@ lab.local
 Example:
 
 
-LAB\labadmin
+_LAB\labadmin_
 
 
 6. Restart the computer when prompted.
